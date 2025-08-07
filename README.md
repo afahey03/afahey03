@@ -40,9 +40,9 @@
 - **MISC:** Node.js • Entity Framework • Windows Installers
 
 ### ☁️ AWS Services
-- Elastic Beanstalk • Lightsail • Lambda  
-- AppConfig • Secrets Manager • SQS • SES  
-- RDS • CloudWatch
+Elastic Beanstalk • Lightsail • Lambda  
+AppConfig • Secrets Manager • SQS • SES  
+RDS • CloudWatch
 
 ---
 
