@@ -10,8 +10,7 @@
 
 - 🧑‍💻 Full-stack engineer
 - 🔧 Love designing APIs and working with cloud-native technologies
-- 💼 Intern @ Web Surfing Studios  
-  • Working on REST APIs, AWS Lambdas, and React apps  
+- 💼 Intern @ Web Surfing Studios, working on REST APIs, AWS Lambdas, and React apps  
 - 🎓 Computer Science @ College of the Holy Cross (Class of 2025)
 
 ---
@@ -20,7 +19,7 @@
 
 **🟨 Mabel**  
 An object-oriented programming language inspired by my Chow Chow 🐶  
-Includes a **lexer**, **parser**, and **compiler** written from scratch.
+Includes a **lexer**, **parser**, and **compiler** written from scratch in Java.
 
 ---
 
