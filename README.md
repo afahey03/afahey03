@@ -1,5 +1,11 @@
 ## Hey, I'm Aidan Fahey
 
+
+## 🌱 Who I Am
+- Full-Stack Engineer
+- Love building APIs and using cloud technologies
+- Currently interning at Web Surfing Studios, building APIs, Lambdas, and React apps
+- Computer Science from the College of the Holy Cross (2021-2025)
 <!--
 **afahey03/afahey03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
