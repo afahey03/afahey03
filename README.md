@@ -1,20 +1,51 @@
-## 👋 Hello, I'm Aidan Fahey
-I'm a software engineer that loves building and owning the entire software development lifecycle for robust applications
+<h1 align="center">👋 Hi, I'm Aidan Fahey</h1>
 
-## 🌱 Who I Am
-- Full-stack engineer
-- Love building APIs and using cloud technologies
-- Currently interning at Web Surfing Studios, building APIs, Lambdas, and React apps
-- Computer Science @ College of the Holy Cross (🎓 2025)
+<p align="center">
+  <em>Software engineer passionate about building full-stack applications, from low-level architecture to high-level UX.</em>
+</p>
 
-## 🔭 I'm Currently Working On
-- An object oriented programming language called Mabel, named after my Chow Chow, including a lexer, parser, and compiler
+---
 
-## ⚡My Tech Stack
-- Languages: C# / .NET (Main), HTML/CSS, JavaScript, Python, C/C++, Java, Swift, PowerShell, YAML
-- Frameworks: ASP.NET Core, ASP.NET MVC, Windows Forms (C#), Bootstrap
-- Libraries: React, Redux, jQuery, NumPy, Pandas, Scikit-learn, Matplotlib
-- Version Control Systems: Git
-- Databases: Microsoft SQL & MySQL
-- Misc: Node.js, Entity Framework, Windows Installers, Windows Server & IIS, CI/CD
-- AWS: Elastic Beanstalk, Lightsail, AppConfig, Secrets Manager, SQS, SES, RDS, Lambda, CloudWatch
+## 🌱 About Me
+
+- 🧑‍💻 Full-stack engineer
+- 🔧 Love designing APIs and working with cloud-native technologies
+- 💼 Intern @ Web Surfing Studios  
+  • Working on REST APIs, AWS Lambdas, and React apps  
+- 🎓 Computer Science @ College of the Holy Cross (Class of 2025)
+
+---
+
+## 🔭 Current Project
+
+**🟨 Mabel**  
+An object-oriented programming language inspired by my Chow Chow 🐶  
+Includes a **lexer**, **parser**, and **compiler** written from scratch.
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+`C# / .NET` (Main) • HTML • CSS • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
+
+### 🧰 Frameworks & Libraries
+- **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap  
+- **Frontend:** React • Redux • jQuery  
+- **Data Science:** NumPy • Pandas • Scikit-learn • Matplotlib  
+
+### 🗃️ Databases & Tools
+- **Databases:** Microsoft SQL • MySQL  
+- **Dev Tools:** Git • Node.js • Entity Framework • Windows Installers  
+- **DevOps:** Windows Server • IIS • CI/CD Pipelines  
+
+### ☁️ AWS Services
+Elastic Beanstalk • Lightsail • Lambda  
+AppConfig • Secrets Manager • SQS • SES  
+RDS • CloudWatch
+
+---
+
+<p align="center">
+  🚀 Let's build something great together!
+</p>
