@@ -1,4 +1,4 @@
-## Hey, I'm Aidan Fahey
+## 👋 Hello, I'm Aidan Fahey
 I'm a software engineer that loves building and owning the entire software development lifecycle for robust applications
 
 ## 🌱 Who I Am
