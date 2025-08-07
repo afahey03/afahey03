@@ -18,8 +18,8 @@
 ## 🔭 Current Project
 
 **🟨 Mabel**  
-An object-oriented programming language inspired by my Chow Chow 🐶  
-Includes a **lexer**, **parser**, and **compiler** written from scratch in Java.
+- An object-oriented programming language named after my Chow Chow 🐶 
+- Includes a **lexer**, **parser**, and **compiler** written from scratch in Java.
 
 ---
 
@@ -39,9 +39,9 @@ Includes a **lexer**, **parser**, and **compiler** written from scratch in Java.
 - **DevOps:** Windows Server • IIS • CI/CD Pipelines  
 
 ### ☁️ AWS Services
-Elastic Beanstalk • Lightsail • Lambda  
-AppConfig • Secrets Manager • SQS • SES  
-RDS • CloudWatch
+- Elastic Beanstalk • Lightsail • Lambda  
+- AppConfig • Secrets Manager • SQS • SES  
+- RDS • CloudWatch
 
 ---
 
