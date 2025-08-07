@@ -30,13 +30,14 @@
 
 ### 🧰 Frameworks & Libraries
 - **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap  
-- **Frontend:** React • Redux • jQuery  
+- **Frontend:** React • Redux • jQuery
 - **Data Science:** NumPy • Pandas • Scikit-learn • Matplotlib  
 
 ### 🗃️ Databases & Tools
 - **Databases:** Microsoft SQL • MySQL  
-- **Dev Tools:** Git • Node.js • Entity Framework • Windows Installers  
-- **DevOps:** Windows Server • IIS • CI/CD Pipelines  
+- **Dev Tools:** Git • GitHub  
+- **DevOps:** Windows Server • IIS • CI/CD Pipelines
+- **MISC:** Node.js • Entity Framework • Windows Installers
 
 ### ☁️ AWS Services
 - Elastic Beanstalk • Lightsail • Lambda  
