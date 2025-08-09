@@ -19,7 +19,7 @@
 
 **🟨 Mabel**  
 - An object-oriented programming language named after my Chow Chow 🐶 
-- Includes a **lexer**, **parser**, and **compiler** written from scratch in Java.
+- Includes a **lexer**, **parser**, **compiler**, and **virtual machine** written from scratch in Java.
 
 ---
 
