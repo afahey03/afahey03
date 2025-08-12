@@ -10,7 +10,7 @@
 
 - 🧑‍💻 Full-stack engineer
 - 🔧 Love designing APIs and working with cloud-native technologies
-- 💼 Intern @ Web Surfing Studios, working on REST APIs, AWS Lambdas, and React apps  
+- 💼 SWE @ Web Surfing Studios, working on REST APIs, AWS Lambdas, and React apps  
 - 🎓 Computer Science @ College of the Holy Cross (Class of 2025)
 
 ---
