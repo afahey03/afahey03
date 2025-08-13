@@ -33,12 +33,12 @@
 ### 💻 Languages
 `C# / .NET` (Main) • HTML • CSS • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
 
-### 🧰 Frameworks & Libraries
+### 📚 Frameworks & Libraries
 - **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap  
 - **Frontend:** React • Redux • jQuery
 - **Data Science:** NumPy • Pandas • Scikit-learn • Matplotlib  
 
-### 🗃️ Databases & Tools
+### 🧰 Databases & Tools
 - **Databases:** Microsoft SQL • MySQL  
 - **Dev Tools:** Git • GitHub  
 - **DevOps:** Windows Server • IIS • CI/CD Pipelines
