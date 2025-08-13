@@ -50,6 +50,3 @@
 <p align="center">
   🚀 Let's build something great together!
 </p>
-
----
-Frieza artwork by blo0p.
