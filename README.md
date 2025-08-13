@@ -43,7 +43,9 @@
 - **Dev Tools:** Git • GitHub  
 - **DevOps:** Windows Server • IIS • CI/CD Pipelines
 - **MISC:** Node.js • Entity Framework • Windows Installers
-- **AWS:** Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • SES • RDS • CloudWatch
+
+### ☁️ AWS Services
+Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • SES • RDS • CloudWatch
 
 ---
 
