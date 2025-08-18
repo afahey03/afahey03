@@ -36,7 +36,7 @@
 ### 📚 Frameworks & Libraries
 - **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap • FastAPI • Express
 - **Libraries:** React • React Native (Expo) • Socket.io • Redux • jQuery
-- **Data Science / AI: ** NumPy • Pandas • Scikit-learn • Matplotlib • PyTorch
+- **Data Science / AI:** NumPy • Pandas • Scikit-learn • Matplotlib • PyTorch
 
 ### 🧰 Databases & Tools
 - **Databases:** Microsoft SQL • MySQL • PostgreSQL
