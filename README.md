@@ -1,4 +1,9 @@
-<h1 align="center">👋 Hi, I'm Aidan Fahey</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:36BCF7,100:9B59B6&text=Aidan%20Fahey&fontSize=46&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20.NET%20%2B%20React&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
+
+<h1 align="center">
+  👋 Hi, I'm Aidan Fahey  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Engineer;API+Designer;Cloud-Native+Builder;React+%2B+.NET+Dev;Always+Learning+🚀" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <em>Software engineer passionate about building full-stack applications, from low-level architecture to high-level UX.</em>
@@ -16,15 +21,20 @@
 ---
 
 ## 🪩 My Portfolio
-[View Portfolio](http://afahey03.com/)
+[![Portfolio](https://img.shields.io/badge/🌐-Visit_My_Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white)](http://afahey03.com/)
 
 ---
 
 ## 🔭 Current Project
 
 **🟨 Mabel**  
-- An object-oriented programming language named after my Chow Chow 🐶 
-- Includes a **lexer**, **parser**, **compiler**, and **virtual machine** written from scratch in Java.
+An object-oriented programming language named after my Chow Chow 🐶  
+
+- Includes a **lexer**, **parser**, **compiler**, and **virtual machine** written from scratch in Java.  
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
@@ -45,10 +55,20 @@
 - **MISC:** Node.js • Entity Framework • Windows Installers • Docker • Prisma
 
 ### ☁️ AWS Services
-Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • SES • RDS • CloudWatch
+Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • SES • RDS • CloudWatch  
 
 ---
 
 <p align="center">
-  🚀 Let's build something great together!
+  🚀 Let's build something great together!  
+  <br/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="coding gif" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afahey03&theme=radical" alt="GitHub Streak" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:36BCF7,100:9B59B6" width="100%" />
