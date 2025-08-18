@@ -18,9 +18,11 @@
   </a>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Engineer;API+Designer;Cloud-Native+Builder;React+%2B+.NET+Dev;Always+Learning+🚀" alt="Typing roles" />
-</h1>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Engineer;API+Designer;Cloud-Native+Builder;React+%2B+.NET+Dev;Always+Learning&v=2)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
   <em>Software engineer passionate about building full-stack applications, from low-level architecture to high-level UX.</em>
