@@ -31,16 +31,16 @@
 ## ⚡ Tech Stack
 
 ### 💻 Languages
-`C# / .NET` (Main) • HTML • CSS • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
+`C# / .NET` (Main) • HTML/CSS • TypeScript • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
 
 ### 📚 Frameworks & Libraries
 - **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap • FastAPI • Express
-- **Frontend:** React • React Native (Expo) • Redux • jQuery
-- **Data Science:** NumPy • Pandas • Scikit-learn • Matplotlib  
+- **Libraries:** React • React Native (Expo) • Socket.io • Redux • jQuery
+- **Data Science / AI: ** NumPy • Pandas • Scikit-learn • Matplotlib • PyTorch
 
 ### 🧰 Databases & Tools
 - **Databases:** Microsoft SQL • MySQL • PostgreSQL
-- **Dev Tools:** Git • GitHub  
+- **Version Control:** Git • GitHub • GitLab
 - **DevOps:** Windows Server • IIS • CI/CD Pipelines
 - **MISC:** Node.js • Entity Framework • Windows Installers • Docker • Prisma
 
