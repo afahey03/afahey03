@@ -4,10 +4,10 @@
 
 <!-- Socials -->
 <p align="center">
-  <a href="mailto:afahey2003@yahoo.com">
+  <a href="mailto:afahey2003@yahoo.com.com">
     <img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/afahey03">
+  <a href="https://www.linkedin.com/in/aidanfahey">
     <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/afahey03">
@@ -75,4 +75,36 @@ Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager •
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9B59B6" width="60%" />
 </p>
 
-<!-- =======================  LIVE GITHUB CARDS  =======================
+<!-- =======================  LIVE GITHUB CARDS  ======================= -->
+## 📊 GitHub at a Glance
+
+<p align="center">
+  <a href="https://github.com/afahey03">
+    <img src="https://github-readme-stats.vercel.app/api?username=afahey03&show_icons=true&hide_title=true&count_private=true&theme=radical&title_color=36BCF7&icon_color=36BCF7&text_color=CDE4FF&bg_color=141321" height="165" alt="Stats" />
+  </a>
+  <a href="https://github.com/afahey03">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afahey03&layout=compact&hide_title=true&theme=radical&title_color=36BCF7&text_color=CDE4FF&bg_color=141321" height="165" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afahey03&theme=radical&ring=36BCF7&fire=9B59B6&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321" alt="Streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afahey03&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&color=36BCF7&line=9B59B6&area_color=9B59B6" alt="Activity graph" />
+</p>
+
+<!-- =======================  FUN ANIMATION  ======================= -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+<!-- =======================  CTA  ======================= -->
+<p align="center">
+  🚀 Let's build something great together!
+</p>
+
+<!-- =======================  FOOTER  ======================= -->
+<!-- Animated Wave Footer (gradient aligned) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:36BCF7,100:9B59B6" width="100%" />
