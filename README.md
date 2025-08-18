@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:36BCF7,100:9B59B6&text=Aidan%20Fahey&fontSize=46&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20.NET%20%2B%20React&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
 
 <h1 align="center">
-  👋 Hi, I'm Aidan Fahey  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Engineer;API+Designer;Cloud-Native+Builder;React+%2B+.NET+Dev;Always+Learning+🚀" alt="Typing SVG" />
+  👋 Hi, I'm Aidan Fahey
 </h1>
 
 <p align="center">
