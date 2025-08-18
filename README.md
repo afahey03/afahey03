@@ -34,15 +34,15 @@
 `C# / .NET` (Main) • HTML • CSS • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
 
 ### 📚 Frameworks & Libraries
-- **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap  
-- **Frontend:** React • Redux • jQuery
+- **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap • FastAPI • Express
+- **Frontend:** React • React Native (Expo) • Redux • jQuery
 - **Data Science:** NumPy • Pandas • Scikit-learn • Matplotlib  
 
 ### 🧰 Databases & Tools
-- **Databases:** Microsoft SQL • MySQL  
+- **Databases:** Microsoft SQL • MySQL • PostgreSQL
 - **Dev Tools:** Git • GitHub  
 - **DevOps:** Windows Server • IIS • CI/CD Pipelines
-- **MISC:** Node.js • Entity Framework • Windows Installers
+- **MISC:** Node.js • Entity Framework • Windows Installers • Docker • Prisma
 
 ### ☁️ AWS Services
 Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • SES • RDS • CloudWatch
