@@ -1,6 +1,6 @@
 <!-- =======================  HEADER  ======================= -->
 <!-- Animated Wave Header Banner (gradient aligned to your brand) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:36BCF7,100:9B59B6&text=Aidan%20Fahey&fontSize=46&fontAlign=50&fontAlignY=36&desc=Full-Stack%20Engineer%20•%20.NET%20%2B%20React&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:36BCF7,100:9B59B6&text=Aidan%20Fahey&fontSize=46&fontAlign=50&fontAlignY=36&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
 
 <!-- Socials -->
 <p align="center">
