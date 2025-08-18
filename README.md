@@ -10,9 +10,6 @@
   <a href="https://www.linkedin.com/in/aidanfahey">
     <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/afahey03">
-    <img src="https://img.shields.io/badge/GitHub-9B59B6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="http://afahey03.com/">
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
