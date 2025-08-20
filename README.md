@@ -1,5 +1,4 @@
 <!-- =======================  HEADER  ======================= -->
-<!-- Animated Wave Header Banner (gradient aligned to your brand) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:36BCF7,100:9B59B6&text=Aidan%20Fahey&fontSize=46&fontAlign=50&fontAlignY=36&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
 
 <!-- Socials -->
@@ -105,5 +104,4 @@ Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager •
 </p>
 
 <!-- =======================  FOOTER  ======================= -->
-<!-- Animated Wave Footer (gradient aligned) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:36BCF7,100:9B59B6" width="100%" />
