@@ -1,6 +1,13 @@
 <!-- =======================  HEADER  ======================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:36BCF7,100:9B59B6&text=Aidan%20Fahey&fontSize=46&fontAlign=50&fontAlignY=36&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
 
+<!-- =======================  SPOTIFY NOW PLAYING  ======================= -->
+<p align="center">
+  <a href="https://open.spotify.com/user/31wabyeb5gdssvvxna3betvowvhu">
+    <img src="https://novatorem-five-mocha.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+  </a>
+</p>
+
 <!-- Socials -->
 <p align="center">
   <a href="mailto:afahey2003@yahoo.com.com">
