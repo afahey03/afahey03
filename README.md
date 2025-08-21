@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://open.spotify.com/user/31wabyeb5gdssvvxna3betvowvhu">
     <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wabyeb5gdssvvxna3betvowvhu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&t=1"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31wabyeb5gdssvvxna3betvowvhu&cover_image=true&theme=default&show_offline=false&background_color=transparent&interchange=false&t=1"
       alt="Spotify Now Playing"
       width="460"
     />
