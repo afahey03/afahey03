@@ -4,7 +4,7 @@
 <!-- =======================  SPOTIFY NOW PLAYING  ======================= -->
 <p align="center">
   <a href="https://open.spotify.com/user/31wabyeb5gdssvvxna3betvowvhu">
-    <img src="https://novatorem-five-mocha.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+    <img src="[https://novatorem-five-mocha.vercel.app](https://novatorem-git-main-afahey03s-projects.vercel.app)/api/spotify" alt="Spotify Now Playing" width="400"/>
   </a>
 </p>
 
