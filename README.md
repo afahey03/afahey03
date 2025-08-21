@@ -12,7 +12,6 @@
   </a>
 </p>
 
-
 <!-- Socials -->
 <p align="center">
   <a href="mailto:afahey2003@yahoo.com">
