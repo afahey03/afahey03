@@ -4,13 +4,13 @@
 <!-- =======================  SPOTIFY NOW PLAYING  ======================= -->
 <p align="center">
   <a href="https://open.spotify.com/user/31wabyeb5gdssvvxna3betvowvhu">
-    <img src="novatorem-4qc8yushd-afahey03s-projects.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+    <img src="novatorem-git-main-afahey03s-projects.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
   </a>
 </p>
 
 <!-- Socials -->
 <p align="center">
-  <a href="mailto:afahey2003@yahoo.com.com">
+  <a href="mailto:afahey2003@yahoo.com">
     <img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/aidanfahey">
