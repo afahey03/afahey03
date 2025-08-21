@@ -4,7 +4,7 @@
 <!-- =======================  SPOTIFY NOW PLAYING  ======================= -->
 <p align="center">
   <a href="https://open.spotify.com/user/31wabyeb5gdssvvxna3betvowvhu">
-    <img src="novatorem-git-main-afahey03s-projects.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+    <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wabyeb5gdssvvxna3betvowvhu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" alt="Spotify Now Playing" width="400"/>
   </a>
 </p>
 
