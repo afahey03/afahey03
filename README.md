@@ -72,7 +72,7 @@ An object-oriented programming language named after my Chow Chow 🐶
 
 ### 🧰 Databases & Tools
 - **Databases:** Microsoft SQL • MySQL • PostgreSQL  
-- **Version Control:** Git • GitHub • GitLab  
+- **Version Control:** Git • GitHub • GitLab • Gitea
 - **DevOps:** Windows Server • IIS • CI/CD Pipelines  
 - **MISC:** Node.js • Entity Framework • Windows Installers • Docker • Prisma
 
