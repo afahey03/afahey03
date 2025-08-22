@@ -67,7 +67,7 @@ An object-oriented programming language named after my Chow Chow 🐶
 
 ### 📚 Frameworks & Libraries
 - **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap • FastAPI • Express  
-- **Libraries:** React • React Native (Expo) • Socket.io • Redux • jQuery  
+- **Libraries:** React • React Native (Expo) • Socket.io • Redux • jQuery • SwiftUI • MapKit • CoreLocation
 - **Data Science / AI:** NumPy • Pandas • Scikit-learn • Matplotlib • PyTorch
 
 ### 🧰 Databases & Tools
