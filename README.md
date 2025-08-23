@@ -55,10 +55,6 @@
 An object-oriented programming language named after my Chow Chow 🐶  
 - Includes a **lexer**, **parser**, **compiler**, and **virtual machine** written from scratch in Java.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" alt="coding animation" />
-</p>
-
 <!-- =======================  TECH STACK  ======================= -->
 ## ⚡ Tech Stack
 
