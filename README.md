@@ -91,9 +91,9 @@ Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager •
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afahey03&layout=compact&hide_title=true&theme=radical&title_color=36BCF7&text_color=CDE4FF&bg_color=141321" height="165" alt="Top languages" />
   </a>
 </p>
-
+<!-- add &theme=radical&ring=36BCF7&fire=9B59B6&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321 -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afahey03&theme=radical&ring=36BCF7&fire=9B59B6&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afahey03" alt="Streak stats" />
 </p>
 
 <p align="center">
