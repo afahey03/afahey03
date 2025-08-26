@@ -92,9 +92,11 @@ Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager •
   </a>
 </p>
 
-<!--<p align="center">
+<!--
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afahey03&theme=radical&ring=36BCF7&fire=9B59B6&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321" alt="Streak stats" />
-</p>-->
+</p>
+-->
 
 <p align="center">
   <a href="https://git.io/streak-stats">
