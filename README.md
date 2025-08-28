@@ -95,12 +95,14 @@ Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager •
 
 <!--
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afahey03&theme=radical&ring=36BCF7&fire=9B59B6&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321" alt="Streak stats" />
+  <a href="https://github.com/afahey03">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afahey03&theme=radical&ring=36BCF7&fire=9B59B6&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321" alt="Streak stats" />
+  </a>
 </p>
 -->
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/afahey03">
     <img src="https://streak-stats.demolab.com?user=afahey03&theme=radical&fire=9B59B6&ring=36BCF7&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321" alt="GitHub Streak" />
   </a>
 </p>
