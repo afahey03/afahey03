@@ -66,7 +66,7 @@
 - **MISC:** Node.js • Entity Framework • Windows Installers • Docker • Prisma
 
 ### ☁️ AWS Services
-Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • SES • RDS • CloudWatch
+Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • S3 • SES • RDS • CloudWatch
 
 <!-- Animated mini-divider -->
 <p align="center">
