@@ -44,17 +44,9 @@
 ## 🌱 About Me
 
 - 🧑‍💻 Full-stack engineer  
-- 🔧 Love designing APIs and working with cloud-native technologies  
-- 💼 Junior Software Engineer @ Web Surfing Studios 
+- 🔧 Love designing APIs and working with cloud-native technologies
+- 💼 Junior Software Engineer @ Web Surfing Studios
 - 🎓 Computer Science @ College of the Holy Cross (Class of 2025)
-
-<!-- =======================  CURRENT PROJECT  ======================= -->
-## 🔭 Current Project
-
-**🟨 Mabel**  
-An object-oriented programming language named after my Chow Chow 🐶  
-- Includes a **lexer**, **parser**, **compiler**, and **virtual machine** written from scratch in Java.
-- Supports OOP concepts like **classes**, **inheritance**, **polymorphism**, and **interfaces**,.
 
 <!-- =======================  TECH STACK  ======================= -->
 ## ⚡ Tech Stack
