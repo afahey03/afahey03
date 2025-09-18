@@ -73,36 +73,6 @@ Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager •
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=9B59B6" width="60%" />
 </p>
 
-<!-- =======================  LIVE GITHUB CARDS  ======================= -->
-## 📊 GitHub at a Glance
-
-<p align="center">
-  <a href="https://github.com/afahey03">
-    <img src="https://github-readme-stats.vercel.app/api?username=afahey03&show_icons=true&hide_title=true&count_private=true&theme=radical&title_color=36BCF7&icon_color=36BCF7&text_color=CDE4FF&bg_color=141321" height="165" alt="Stats" />
-  </a>
-  <a href="https://github.com/afahey03">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afahey03&layout=compact&hide_title=true&theme=radical&title_color=36BCF7&text_color=CDE4FF&bg_color=141321" height="165" alt="Top languages" />
-  </a>
-</p>
-
-<!--
-<p align="center">
-  <a href="https://github.com/afahey03">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=afahey03&theme=radical&ring=36BCF7&fire=9B59B6&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321" alt="Streak stats" />
-  </a>
-</p>
--->
-
-<p align="center">
-  <a href="https://github.com/afahey03">
-    <img src="https://streak-stats.demolab.com?user=afahey03&theme=radical&fire=9B59B6&ring=36BCF7&currStreakNum=CDE4FF&sideNums=CDE4FF&currStreakLabel=CDE4FF&sideLabels=CDE4FF&dates=7A87A8&background=141321" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afahey03&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&color=36BCF7&line=9B59B6&area_color=9B59B6" alt="Activity graph" />
-</p>
-
 <!-- =======================  FUN ANIMATION  ======================= -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
