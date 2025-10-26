@@ -46,7 +46,7 @@
 - 🧑‍💻 Full-stack engineer  
 - 🔧 Love designing APIs and working with cloud-native technologies
 - 💼 Junior Software Engineer @ Web Surfing Studios
-- 🎓 Computer Science @ College of the Holy Cross (Class of 2025)
+- 🎓 Computer Science & Religious Studies @ College of the Holy Cross '25
 
 <!-- =======================  TECH STACK  ======================= -->
 ## ⚡ Tech Stack
