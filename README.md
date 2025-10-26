@@ -41,25 +41,25 @@
 </p>
 
 <!-- =======================  ABOUT  ======================= -->
-## 🌱 About Me
+## About Me
 
-- 🧑‍💻 Full-stack engineer  
-- 🔧 Love designing APIs and working with cloud-native technologies
-- 💼 Junior Software Engineer @ Web Surfing Studios
-- 🎓 Computer Science & Religious Studies @ College of the Holy Cross '25
+- Full-stack engineer  
+- Love designing APIs and working with cloud-native technologies
+- Junior Software Engineer @ Web Surfing Studios
+- Computer Science & Religious Studies @ College of the Holy Cross '25
 
 <!-- =======================  TECH STACK  ======================= -->
-## ⚡ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 `C# / .NET` • HTML/CSS • TypeScript • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
 
-### 📚 Frameworks & Libraries
+### Frameworks & Libraries
 - **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap • FastAPI • Express  
 - **Libraries:** React • React Native (Expo) • Socket.io • Redux • jQuery • SwiftUI • MapKit • CoreLocation
 - **Data Science / AI:** NumPy • Pandas • Scikit-learn • Matplotlib • PyTorch
 
-### 🧰 Databases & Tools
+### Databases & Tools
 - **Databases:** Microsoft SQL • MySQL • PostgreSQL  
 - **Version Control:** Git • GitHub • GitLab • Gitea
 - **DevOps:** Windows Server • IIS • CI/CD Pipelines • GitHub Workflows • Docker • Prisma
