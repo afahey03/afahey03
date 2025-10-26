@@ -62,8 +62,8 @@
 ### 🧰 Databases & Tools
 - **Databases:** Microsoft SQL • MySQL • PostgreSQL  
 - **Version Control:** Git • GitHub • GitLab • Gitea
-- **DevOps:** Windows Server • IIS • CI/CD Pipelines • GitHub Workflows
-- **MISC:** Node.js • Entity Framework • Windows Installers • Docker • Prisma
+- **DevOps:** Windows Server • IIS • CI/CD Pipelines • GitHub Workflows • Docker • Prisma
+- **MISC:** Node.js • Entity Framework • Windows Installers
 
 ### ☁️ AWS Services
 Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • S3 • SES • RDS • CloudWatch
