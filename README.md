@@ -78,10 +78,5 @@ Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager •
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-<!-- =======================  CTA  ======================= -->
-<p align="center">
-  🚀 Let's build something great together!
-</p>
-
 <!-- =======================  FOOTER  ======================= -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:36BCF7,100:9B59B6" width="100%" />
