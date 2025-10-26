@@ -52,7 +52,7 @@
 ## ⚡ Tech Stack
 
 ### 💻 Languages
-`C# / .NET` (Main) • HTML/CSS • TypeScript • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
+`C# / .NET` • HTML/CSS • TypeScript • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
 
 ### 📚 Frameworks & Libraries
 - **Frameworks:** ASP.NET Core • ASP.NET MVC • Windows Forms • Bootstrap • FastAPI • Express  
