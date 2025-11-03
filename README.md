@@ -54,8 +54,8 @@
 `C# / .NET` • HTML/CSS • TypeScript • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
 
 ### 📚 Frameworks & Libraries
-- **Frameworks:** ASP.NET Core • ASP.NET MVC • Vue.js • Windows Forms • Bootstrap • FastAPI • Express  
-- **Libraries:** React • React Native (Expo) • Socket.io • Redux • jQuery • SwiftUI • MapKit • CoreLocation
+- **Frameworks:** ASP.NET Core • ASP.NET MVC • Vue.js • Tailwind • Windows Forms • Bootstrap • FastAPI • Express
+- **Libraries:** React • React Native (Expo) • Socket.io • Redux • jQuery • Pinia • Axios • SwiftUI • MapKit • CoreLocation
 - **Data Science / AI:** NumPy • Pandas • Scikit-learn • Matplotlib • PyTorch
 
 ### 🧰 Databases & Tools
