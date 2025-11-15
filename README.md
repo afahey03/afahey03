@@ -41,31 +41,11 @@
 </p>
 
 <!-- =======================  ABOUT  ======================= -->
-## 🌱 About Me
+## About Me
 
-- 🧑‍💻 Full-stack engineer
+- 💻 `C# / .NET` fan
 - 💼 Junior Software Engineer @ Web Surfing Studios
 - 🎓 Computer Science & Religious Studies @ College of the Holy Cross '25
-
-<!-- =======================  TECH STACK  ======================= -->
-## ⚡ Tech Stack
-
-### 💻 Languages
-`C# / .NET` • HTML/CSS • TypeScript • JavaScript • Python • C/C++ • Java • Swift • PowerShell • YAML
-
-### 📚 Frameworks & Libraries
-- **Frameworks:** ASP.NET Core • ASP.NET MVC • Vue.js • Tailwind • Windows Forms • Bootstrap • FastAPI • Express
-- **Libraries:** React • React Native (Expo) • Socket.io • Redux • jQuery • Pinia • Axios • SwiftUI • MapKit • CoreLocation
-- **Data Science / AI:** NumPy • Pandas • Scikit-learn • Matplotlib • PyTorch
-
-### 🧰 Databases & Tools
-- **Databases:** Microsoft SQL • MySQL • PostgreSQL  
-- **Version Control:** Git • GitHub • GitLab • Gitea
-- **DevOps:** Windows Server • IIS • CI/CD Pipelines • GitHub Workflows • Docker • Prisma
-- **MISC:** Node.js • Entity Framework • Windows Installers
-
-### ☁️ AWS Services
-Elastic Beanstalk • Lightsail • Lambda • AppConfig • Secrets Manager • SQS • S3 • SES • RDS • CloudWatch
 
 <!-- Animated mini-divider -->
 <p align="center">
