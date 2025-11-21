@@ -45,7 +45,7 @@
 
 - 💻 `C# / .NET` `React` `AWS` `MySQL` Enjoyer
 - 💼 Junior Software Engineer @ Web Surfing Studios
-- 🎓 B.A. Computer Science & Religious Studies @ College of the Holy Cross `2021-2025`
+- 🎓 B.A. CS & Religious Studies @ Holy Cross `2021-2025`
 
 <!-- Animated mini-divider -->
 <p align="center">
