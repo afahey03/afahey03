@@ -43,7 +43,7 @@
 <!-- =======================  ABOUT  ======================= -->
 ## About Me
 
-- 💻 `C# / .NET` `React` `AWS` `MySQL` Enjoyer
+- 💻 `.NET` Enjoyer
 - 💼 Full Stack Engineer @ SterlingBridge Insurance
 - 🎓 B.A. Computer Science & Religious Studies @ College of the Holy Cross `2021 - 2025`
 - 🎓 M.A. Theology @ Holy Apostles College and Seminary `2026 - Present`
