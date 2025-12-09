@@ -44,7 +44,7 @@
 ## About Me
 
 - 💻 `.NET` Enjoyer
-- 💼 Software Developer @ The Kenerson Group
+- 💼 Software Engineer @ The Kenerson Group
 - 🎓 B.A. Computer Science & Religious Studies @ College of the Holy Cross `2025`
 
 <!-- Animated mini-divider -->
