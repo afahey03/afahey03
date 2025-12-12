@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <em>Software engineer passionate about building full-stack applications, from low-level architecture to high-level UX.</em>
+  <em>I build and break things until they're great.</em>
 </p>
 
 <!-- Divider -->
