@@ -45,7 +45,7 @@
 
 - 💻 `.NET` Enjoyer
 - 💼 Software Engineer @ The Kenerson Group
-- 🎓 B.A. Computer Science & Religious Studies @ College of the Holy Cross `2025`
+- 🎓 B.A. Computer Science @ College of the Holy Cross `2025`
 
 <!-- Animated mini-divider -->
 <p align="center">
