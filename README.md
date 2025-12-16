@@ -17,7 +17,7 @@
   <a href="mailto:afahey2003@yahoo.com">
     <img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/aidanfahey">
+  <a href="https://linkedin.com/in/aidanfahey">
     <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://afahey03.com/">
