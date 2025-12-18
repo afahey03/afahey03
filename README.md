@@ -43,7 +43,7 @@
 <!-- =======================  ABOUT  ======================= -->
 ## About Me
 
-- 💻 `.NET` Enjoyer
+- 💻 `C# / .NET` Enjoyer
 - 💼 Software Engineer @ The Kenerson Group
 - 🎓 B.A. Computer Science @ College of the Holy Cross `2025`
 
