@@ -32,7 +32,7 @@
 </div>
 
 <p align="center">
-  <em>I build and break things until they're great.</em>
+  <em>I break and build things until they're great.</em>
 </p>
 
 <!-- Divider -->
