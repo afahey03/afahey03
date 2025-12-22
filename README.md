@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<!-- Socials -->
+<!-- Socials
 <p align="center">
   <a href="mailto:afahey2003@yahoo.com">
     <img src="https://img.shields.io/badge/Email-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+-->
 
 <div align="center">
   
