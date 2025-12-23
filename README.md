@@ -40,10 +40,12 @@
 
 <!-- =======================  ABOUT  ======================= -->
 ## About Me
-
-- 💻 `C# / .NET` Enjoyer
-- 💼 Software Engineer @ The Kenerson Group
-- 🎓 B.A. Computer Science @ College of the Holy Cross
+<!-- 💻 💼 🎓 -->
+<!--
+- `C# / .NET` Enjoyer
+-->
+- Software Engineer @ The Kenerson Group
+- B.A. Computer Science @ College of the Holy Cross
 
 <!-- Animated mini-divider -->
 <p align="center">
