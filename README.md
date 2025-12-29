@@ -34,7 +34,7 @@
 - `C# / .NET` Enjoyer
 -->
 - Software Engineer @ The Kenerson Group
-- B.A. Computer Science @ College of the Holy Cross
+- B.A. Computer Science & Religious Studies @ College of the Holy Cross
 
 <!-- =======================  SPOTIFY NOW PLAYING  ======================= -->
 <p align="center">
