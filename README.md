@@ -36,7 +36,7 @@
 - Software Engineer @ The Kenerson Group
 - B.A. Computer Science & Religious Studies @ College of the Holy Cross
 
-<!-- =======================  SPOTIFY NOW PLAYING  ======================= -->
+<!-- =======================  SPOTIFY NOW PLAYING  =======================
 <p align="center">
   <a href="https://open.spotify.com/user/31wabyeb5gdssvvxna3betvowvhu">
     <img
@@ -46,6 +46,7 @@
     />
   </a>
 </p>
+-->
 
 <!-- Animated mini-divider -->
 <p align="center">
