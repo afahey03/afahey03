@@ -17,7 +17,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Theology+Nerd;Avid+Fisherman;Chess+Player;Caffeine+Addict;.NET+Enjoyer;Led+Zeppelin+Fan&v=2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Strict+Observance+Thomist;Avid+Fisherman;Chess+Player;Caffeine+Addict;.NET+Enjoyer;Led+Zeppelin+Fan&v=2)](https://git.io/typing-svg)
 
 </div>
 
