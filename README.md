@@ -1,8 +1,11 @@
 <!-- =======================  ABOUT  ======================= -->
 ## About Me
+
 - Software Engineer @ The Kenerson Group
 - Volunteer Software Engineer & Onboarding Lead @ Web Surfing Studios
 - B.A. Computer Science & Religious Studies @ College of the Holy Cross
+
+Outside of work I enjoy chess, fishing, and theology.
 
 <!-- =======================  FUN ANIMATION  ======================= -->
 <p align="center">
