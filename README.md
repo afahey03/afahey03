@@ -1,5 +1,5 @@
 <!-- =======================  ABOUT  ======================= -->
-## About Me
+## Aidan Fahey
 
 - Software Engineer @ The Kenerson Group
 - Volunteer Software Engineer & Onboarding Lead @ Web Surfing Studios
