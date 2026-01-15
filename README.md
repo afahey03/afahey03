@@ -2,7 +2,6 @@
 ## Aidan Fahey
 
 - Software Engineer @ The Kenerson Group
-- Volunteer Software Engineer & Onboarding Lead @ Web Surfing Studios
 - B.A. Computer Science & Religious Studies @ College of the Holy Cross
 
 <!-- =======================  FUN ANIMATION  =======================
