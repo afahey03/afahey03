@@ -4,8 +4,7 @@
 - Software Engineer @ The Kenerson Group
 - B.A. Computer Science & Religious Studies @ College of the Holy Cross
 
-<!-- =======================  FUN ANIMATION  =======================
+<!-- =======================  FUN ANIMATION  ======================= -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
--->
