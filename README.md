@@ -1,5 +1,5 @@
 <!-- =======================  ABOUT  ======================= -->
 ## Aidan Fahey
 
-- Full Stack Engineer @ Origami Risk
-- Computer Science and Religious Studies @ College of the Holy Cross
+- Associate Full Stack Engineer I @ Origami Risk
+- B.A. Computer Sciences and Religious Studies @ College of the Holy Cross
