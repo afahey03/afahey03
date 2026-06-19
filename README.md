@@ -1,6 +1,6 @@
 <!-- =======================  ABOUT  ======================= -->
 ## Aidan Fahey
-- Full Stack Engineer @ ```Origami Risk```<br>
+- AI Product Engineer @ ```Origami Risk```<br>
 - B.A. Computer Science and Religious Studies @ ```College of the Holy Cross```
 
 <!-- ================  SPOTIFY NOW PLAYING  ================ -->
